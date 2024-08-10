@@ -10,3 +10,5 @@
 ### 🆙 0810 ~ 0810
 - 1단계
 [달리기경주](https://velog.io/@hot5667/%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B2%BD%EC%A3%BC)
+- 1단계
+[추억 점수](https://velog.io/@hot5667/%EC%B6%94%EC%96%B5-%EC%A0%90%EC%88%98)
