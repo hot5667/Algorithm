@@ -17,3 +17,5 @@
 [제일 작은 수 제거하기](https://velog.io/@hot5667/%EC%A0%9C%EC%9D%BC-%EC%9E%91%EC%9D%80-%EC%88%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 - 1단계
 [핸드폰 번호 가리기](https://velog.io/@hot5667/%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0)
+- 1단계
+[삼총사](https://velog.io/@hot5667/%EC%82%BC%EC%B4%9D%EC%82%AC)
