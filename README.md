@@ -26,6 +26,7 @@
 ### 🆙 0812 ~ 0816
 - 1단계
 [기사단원의 무기](https://velog.io/@hot5667/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0)
-
 - 1단계
 [내적](https://velog.io/@hot5667/%EB%82%B4%EC%A0%81)
+- 1단계
+[약수의 개수와 덧셈](https://velog.io/@hot5667/%EC%95%BD%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%99%80-%EB%8D%A7%EC%85%88)
