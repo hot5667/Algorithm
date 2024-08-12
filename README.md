@@ -19,3 +19,8 @@
 [핸드폰 번호 가리기](https://velog.io/@hot5667/%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0)
 - 1단계
 [삼총사](https://velog.io/@hot5667/%EC%82%BC%EC%B4%9D%EC%82%AC)
+
+---
+### 🆙 0812 ~ 0816
+- 1단계
+[기사단원의 무기](https://velog.io/@hot5667/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0)
