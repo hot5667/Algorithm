@@ -8,7 +8,7 @@
 
 ---
 
-### 🆙 0810 ~ 0810
+### 🆙 0810 ~ 0811
 - 1단계
 [달리기경주](https://velog.io/@hot5667/%EB%8B%AC%EB%A6%AC%EA%B8%B0-%EA%B2%BD%EC%A3%BC)
 - 1단계
@@ -30,4 +30,3 @@
 [내적](https://velog.io/@hot5667/%EB%82%B4%EC%A0%81)
 - 1단계
 [약수의 개수와 덧셈](https://velog.io/@hot5667/%EC%95%BD%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%99%80-%EB%8D%A7%EC%85%88)
-- 1단계 [문자열 내림차순으로 배치하기](https://velog.io/@hot5667/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0)
