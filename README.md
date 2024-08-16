@@ -24,6 +24,7 @@
 
 ---
 ### 🆙 0812 ~ 0816
+- 0단계 [옹알이 (1)](https://velog.io/@hot5667/%EC%98%B9%EC%95%8C%EC%9D%B4-1)
 - 1단계
 [기사단원의 무기](https://velog.io/@hot5667/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98-%EB%AC%B4%EA%B8%B0)
 - 1단계
