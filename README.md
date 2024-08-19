@@ -38,3 +38,7 @@
 - 3단계 [금과 은 운반하기](https://velog.io/@hot5667/%EA%B8%88%EA%B3%BC-%EC%9D%80-%EC%9A%B4%EB%B0%98%ED%95%98%EA%B8%B0)
 - 3단계 [합승 택시 요금](https://velog.io/@hot5667/%ED%95%A9%EC%8A%B9-%ED%83%9D%EC%8B%9C-%EC%9A%94%EA%B8%88-with-%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - 3단계 [이중우선순위큐](https://velog.io/@hot5667/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90)
+
+---
+### 🆙 0819 ~ 0823
+ - 1단계 [옹알이 (2)](https://velog.io/@hot5667/%EC%98%B9%EC%95%8C%EC%9D%B4-2)
