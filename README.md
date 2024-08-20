@@ -42,3 +42,4 @@
 ---
 ### 🆙 0819 ~ 0823
  - 1단계 [옹알이 (2)](https://velog.io/@hot5667/%EC%98%B9%EC%95%8C%EC%9D%B4-2)
+ - 2단계 [귤 고르기](https://velog.io/@hot5667/%EA%B7%A4-%EA%B3%A0%EB%A5%B4%EA%B8%B0)
